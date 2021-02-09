@@ -1,2 +1,3 @@
-# learn-c-plus-plus
-Learning the fundamentals of programming
+# Learning the fundamentals of programming and C++
+
+Learning from the Codecademy course
